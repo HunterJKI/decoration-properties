@@ -1,4 +1,4 @@
-# custom-properties
+# decoration-properties
 Install custom properties dialog in LabVIEW that are much more useful than the default empty one.
 
 ## Instalation Instructions
