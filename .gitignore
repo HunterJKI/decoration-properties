@@ -11,7 +11,11 @@
 # Executables
 *.exe
 
+# VI Packages
+*.vip
+
 # Metadata
 *.aliases
 *.lvlps
 .cache/
+
